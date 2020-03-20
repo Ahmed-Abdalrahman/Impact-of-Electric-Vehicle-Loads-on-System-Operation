@@ -1,7 +1,7 @@
 # Impact of Electric Vehicle Loads on System Operation
 Optimal Power Flow (OPF) with objective to minimize the feeders’ losses using GAMS
 
-This report presents the modelling techniques of PEVs charging demand. Moreover, the methodology of assessment the impact of PEVs charging demand, in addition to, impact metrics are investigated. In addition, the report presents M/M/c queuing model of charging demand for a single charging facility. The impact of PEV charging demand on distribution system is examined using optimal power flow (OPF). 
+This report presents the modelling techniques of plug-in electrical vehicles (PEVs) charging demand. Moreover, the methodology of assessment the impact of PEVs charging demand, in addition to, impact metrics are investigated. In addition, the report presents M/M/c queuing model of charging demand for a single charging facility. The impact of PEV charging demand on distribution system is examined using optimal power flow (OPF). 
 
 ## Files
 * [Technical details](Project_report.pdf) -contains the technical details of the project.
